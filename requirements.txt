@@ -1,0 +1,8 @@
+numpy
+pandas
+torch
+fair-esm
+joblib
+flask
+flask_wtf
+flask_cors
